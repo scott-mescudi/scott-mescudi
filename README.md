@@ -8,7 +8,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=scott-mescudi&icon=0&color=4)](https://visitcount.itsvg.in)
 
-![Widget](https://scott-mescudi.github.io/pages/widget.png?timestamp=202409110930)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
