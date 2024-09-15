@@ -9,4 +9,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=scott-mescudi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Demo](./dancing-gopher.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
