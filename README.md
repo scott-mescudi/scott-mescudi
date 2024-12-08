@@ -1,1 +1,1 @@
-![scott-mescudi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scott-mescudi&theme=gotham&show_icons=true&hide_border=true&layout=compact)![Demo](./dancing-gopher.gif) 
+![scott-mescudi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scott-mescudi&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)![Demo](./dancing-gopher.gif) 
